@@ -1,5 +1,5 @@
 # Adversarial-Image-Generation-for-YOLOV8-Object-Detection-Model
-Generate AIG images based on pre-trained YOLOv8 object detection model
+Generate AIG images based on pre-trained YOLOv8 object detection model, using FGSM algorithm
 
 Original image  
 <!-- ![](https://github.com/user-attachments/assets/c7e4725a-882e-4048-a262-344fe36f67e6 | width=100) -->
