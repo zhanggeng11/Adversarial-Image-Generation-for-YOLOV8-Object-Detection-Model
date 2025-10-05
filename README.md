@@ -8,4 +8,5 @@ AIG image with 0.01 Epsilon (1% perturbation)
 ![Image](https://github.com/user-attachments/assets/4dca674e-bc7f-42d6-818d-3ea2caa0c4cc)
 
 AIG image with 0.05 Epsilon (5% perturbation)
+![Image](https://github.com/user-attachments/assets/822ba25e-ef51-4718-adb8-d56ca3f6a0b4)
 
