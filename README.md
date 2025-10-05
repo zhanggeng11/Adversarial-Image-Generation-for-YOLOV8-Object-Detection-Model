@@ -16,7 +16,7 @@ AIG image with 0.05 Epsilon (5% perturbation)
 <img src="https://github.com/user-attachments/assets/822ba25e-ef51-4718-adb8-d56ca3f6a0b4" width="400"> <br/> <br/>
 
 Original image with annotation
-<img src="https://github.com/user-attachments/assets/5c465dd8-f699-4e14-a740-0d430f1102ad" width="400"> <br/> <br/>
+<img src="https://github.com/user-attachments/assets/499be609-3d01-410e-9851-c7ca4050e651" width="400"> <br/> <br/>
 
 AIG image (10% gradient based perturbation) annotation
 <img src="" width="400"> <br/> <br/>
