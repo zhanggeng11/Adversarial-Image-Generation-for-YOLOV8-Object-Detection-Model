@@ -19,7 +19,7 @@ Original image with annotation
 <img src="https://github.com/user-attachments/assets/499be609-3d01-410e-9851-c7ca4050e651" width="400"> <br/> <br/>
 
 AIG image (10% gradient based perturbation) annotation
-<img src="" width="400"> <br/> <br/>
+<img src="https://github.com/user-attachments/assets/93c77887-c443-4082-bcf8-6ca4c6792598" width="400"> <br/> <br/>
 
 AIG image (10% random perturbation) with annotation
 <img src="" width="400"> <br/> <br/>
